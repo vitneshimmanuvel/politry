@@ -1,0 +1,5 @@
+{
+  "name": "FeatherBill POS - Poultry & Egg Billing Software",
+  "description": "Specialized billing, partial payment ledger, and receipt generation software for egg and chicken traders with dual billing counters, admin dashboard, multi-template receipts, and size adjustment.",
+  "requestFramePermissions": []
+}
