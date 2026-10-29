@@ -30,6 +30,36 @@
   background-color: #ffffff !important;
 }
 
+[class*="bg-emerald-950"],
+[class*="bg-emerald-500/20"] {
+  background-color: #dcfce7 !important;
+}
+
+[class*="bg-amber-950"],
+[class*="bg-amber-500/20"],
+[class*="bg-yellow-950"] {
+  background-color: #fef3c7 !important;
+}
+
+[class*="bg-red-950"],
+[class*="bg-red-500/20"],
+[class*="bg-rose-950"] {
+  background-color: #fee2e2 !important;
+}
+
+[class*="border-emerald-800"] {
+  border-color: #86efac !important;
+}
+
+[class*="border-amber-800"] {
+  border-color: #fcd34d !important;
+}
+
+[class*="border-red-800"],
+[class*="border-rose-800"] {
+  border-color: #fca5a5 !important;
+}
+
 [class*="text-white"],
 [class*="text-slate-100"],
 [class*="text-slate-200"],
@@ -62,7 +92,10 @@
 [class*="text-amber-300"],
 [class*="text-amber-400"],
 [class*="text-yellow-300"],
-[class*="text-yellow-400"],
+[class*="text-yellow-400"] {
+  color: #92400e !important;
+}
+
 [class*="text-orange-300"],
 [class*="text-orange-400"] {
   color: #a16207 !important;
